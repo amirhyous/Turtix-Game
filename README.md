@@ -34,3 +34,8 @@ To run this project, you will need:
    ```bash
    git clone https://github.com/yourusername/turtix-game.git
    cd turtix-game
+   ```
+2. **Compile the game: You can compile the project using the provided Makefile:**
+   ```bash
+   make
+   ```
