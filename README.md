@@ -35,7 +35,7 @@ To run this project, you will need:
    git clone https://github.com/yourusername/turtix-game.git
    cd turtix-game
    ```
-2. **Compile the game: You can compile the project using the provided Makefile:**
+2. **Compile the game:** You can compile the project using the provided Makefile:
    ```bash
    make
    ```
@@ -43,5 +43,17 @@ To run this project, you will need:
    ```bash
    ./turtix.out
    ```
+   
+## How to Play
+- Use the W, A, and D keys to move Turtix.
+- Jump over obstacles and avoid enemies.
+- Rescue all baby turtles to complete each level.
+- Collect bonuses and power-ups along the way to help you on your mission.
 
+
+## File Structure
+- main.cpp - Contains the main game loop and initialization of game objects.
+- map.txt - Defines the layout of levels.
+- makefile - A script to compile the project.
+- assets/ - Contains game assets like images and sounds.
 
