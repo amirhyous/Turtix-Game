@@ -32,7 +32,7 @@ To run this project, you will need:
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/turtix-game.git
+   git clone https://github.com/amirhyous/turtix-game.git
    cd turtix-game
    ```
 2. **Compile the game:** You can compile the project using the provided Makefile:
@@ -52,8 +52,8 @@ To run this project, you will need:
 
 
 ## File Structure
-- main.cpp - Contains the main game loop and initialization of game objects.
-- map.txt - Defines the layout of levels.
+- main.cc - Contains the main game loop and initialization of game objects.
+- map/ - Defines the layout of game.
 - makefile - A script to compile the project.
-- assets/ - Contains game assets like images and sounds.
+- sprite/ - Contains game assets like images and sounds.
 
