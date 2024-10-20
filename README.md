@@ -39,5 +39,9 @@ To run this project, you will need:
    ```bash
    make
    ```
+3. **Run the game:** After compilation, you can run the game by executing:
+   ```bash
+   ./turtix.out
+   ```
 
 
